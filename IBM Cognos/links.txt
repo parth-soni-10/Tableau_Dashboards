@@ -1,0 +1,5 @@
+Sales :-
+https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FSales&action=view&mode=dashboard
+
+Service :- 
+https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FService&action=view&mode=dashboard
